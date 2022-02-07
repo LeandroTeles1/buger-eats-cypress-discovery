@@ -1,0 +1,52 @@
+{
+  "signup": {
+    "name": "Leandro Teles",
+    "cpf": "02420866320",
+    "email": "leandro.teles@live.com",
+    "whatsapp": "85998718229",
+    "address": {
+      "postalcode": "60812230",
+      "street": "Rua Roberto Silva",
+      "number": "345",
+      "datails": "Casa",
+      "district": "Edson Queiroz",
+      "city_state": "Fortaleza/CE"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+
+  "cpf_inv": {
+    "name": "Francisco Silva",
+    "cpf": "024208663zz",
+    "email": "francisco.silva@live.com",
+    "whatsapp": "85998718229",
+    "address": {
+      "postalcode": "60812230",
+      "street": "Rua Roberto Silva",
+      "number": "345",
+      "datails": "Casa",
+      "district": "Edson Queiroz",
+      "city_state": "Fortaleza/CE"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+
+  "email_inv": {
+    "name": "Leandro Teles",
+    "cpf": "02420866320",
+    "email": "leandro.teles.live.com",
+    "whatsapp": "85998718229",
+    "address": {
+      "postalcode": "60812230",
+      "street": "Rua Roberto Silva",
+      "number": "345",
+      "datails": "Casa",
+      "district": "Edson Queiroz",
+      "city_state": "Fortaleza/CE"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
